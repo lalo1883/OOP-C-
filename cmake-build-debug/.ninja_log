@@ -1,0 +1,22 @@
+# ninja log v5
+12	299	7301629409779115	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+300	368	7301629410439103	Course.exe	80c9c3c3c76dfc28
+15	123	7301616780532024	CMakeFiles/Course.dir/Cube.cpp.obj	f307b0441439e381
+29	381	7301782956485614	CMakeFiles/Course.dir/Dog.cpp.obj	7271ce96ed1ec83c
+24	383	7301782956505570	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+12	287	7301783436334998	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+288	358	7301783437005080	Course.exe	a7f50d7fdef75a1d
+11	305	7301786239373362	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+306	379	7301786240073357	Course.exe	a7f50d7fdef75a1d
+12	298	7301786606701711	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+299	372	7301786607401703	Course.exe	a7f50d7fdef75a1d
+12	301	7301786962648075	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+301	372	7301786963328068	Course.exe	a7f50d7fdef75a1d
+14	310	7301787224368439	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+311	388	7301787225118554	Course.exe	a7f50d7fdef75a1d
+4	294	7301788483844240	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+294	368	7301788484554261	Course.exe	a7f50d7fdef75a1d
+4	300	7301790115892152	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+300	375	7301790116612158	Course.exe	a7f50d7fdef75a1d
+3	274	7301792039607331	CMakeFiles/Course.dir/main.cpp.obj	a9d4a3b5448ac00b
+275	348	7301792040317245	Course.exe	a7f50d7fdef75a1d
